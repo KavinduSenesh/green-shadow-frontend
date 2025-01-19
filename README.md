@@ -1,5 +1,3 @@
-Certainly! Here's how you can modify the README to include a section for UI screenshots. This will help showcase the visual aspect of your Green Shadow Crop Monitoring System.
-
 ---
 
 ```markdown
