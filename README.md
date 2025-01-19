@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🌱 Green Shadow Crop Monitoring System
 
