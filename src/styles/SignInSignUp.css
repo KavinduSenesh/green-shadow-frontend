@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.form-container {
+    @apply flex flex-col items-center justify-center w-full max-w-[350px];
+}
