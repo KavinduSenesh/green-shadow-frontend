@@ -14,6 +14,15 @@ Green Shadow is a modern **crop monitoring system** designed to help farmers, ag
 
 ## 🖼️ UI Screenshots
 
+![Screenshot 2025-01-19 223449](https://github.com/user-attachments/assets/2ee92bf4-85aa-4576-9f12-c7672bb0c117)
+![Screenshot 2025-01-19 223427](https://github.com/user-attachments/assets/a8a02c75-4628-4200-ab6a-e70382ad5fb6)
+![Screenshot 2025-01-19 223414](https://github.com/user-attachments/assets/6644d30e-2470-4a70-a804-8f4cc8a9671a)
+![Screenshot 2025-01-19 223352](https://github.com/user-attachments/assets/28eb0d95-e264-4648-b860-c800ac877093)
+![Screenshot 2025-01-19 223243](https://github.com/user-attachments/assets/f515b557-c371-4881-ab32-c17c83ad3585)
+![Screenshot 2025-01-19 170445](https://github.com/user-attachments/assets/6ddf80d6-2a38-4a7d-94ed-9aba9af7b635)
+![Screenshot 2025-01-19 124930](https://github.com/user-attachments/assets/45052bc2-f113-43f5-9b7a-544ae32de0e8)
+
+
 https://drive.google.com/drive/folders/1eJ7NFAfhb_dlIOU4QgNJobqW01iVu2a1?usp=drive_link
 
 Here are some screenshots of the Green Shadow Crop Monitoring System’s user interface:
