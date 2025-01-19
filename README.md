@@ -14,13 +14,9 @@ Green Shadow is a modern **crop monitoring system** designed to help farmers, ag
 
 ## 🖼️ UI Screenshots
 
+https://drive.google.com/drive/folders/1eJ7NFAfhb_dlIOU4QgNJobqW01iVu2a1?usp=drive_link
+
 Here are some screenshots of the Green Shadow Crop Monitoring System’s user interface:
-
-![Dashboard]([./path/to/screenshot-dashboard.png](https://drive.google.com/drive/folders/1eJ7NFAfhb_dlIOU4QgNJobqW01iVu2a1?usp=drive_link))
-*Above: Dashboard displaying crop health metrics and environmental conditions.*
-
-![Data Visualization]([./path/to/screenshot-visualization.png](https://drive.google.com/drive/folders/1eJ7NFAfhb_dlIOU4QgNJobqW01iVu2a1?usp=drive_link))
-*Above: Interactive data visualizations for monitoring growth patterns over time.*
 
 Feel free to explore the full features of the app and see the interface in action.
 
@@ -139,10 +135,3 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 🌱 **Green Shadow: Empowering sustainable farming with technology!**
 ```
 
-### What's New:
-- **UI Screenshots Section**: Added a section to showcase the user interface with placeholders for images (replace `./path/to/screenshot-*` with actual image paths in your repository).
-- The screenshots will help users visualize what the app looks like, making it more engaging and easier to understand.
-
-Make sure to include the images in your repository (you can store them in a `/assets/` folder or similar directory) and update the image paths accordingly.
-
-Let me know if you'd like further adjustments!
